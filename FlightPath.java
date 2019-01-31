@@ -1,4 +1,3 @@
-package assignmentFive;
 
 import java.text.NumberFormat;
 /**
